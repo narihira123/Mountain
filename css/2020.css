@@ -1,9 +1,16 @@
 body{
-  background-color: #C0C0C0;
+  background-color: #FDF5E6;
 }
 
-.Y20-text1{
+.Y19-text1{
   font-size: 50px;
   background-color: #FFB6C1;
   text-align: center;
 }
+
+.Y19-text2,.Y19-text3{list-style: none; color: #000000}
+
+
+
+.Y19-text2{background-color: #FFE4E1;text-align: center;}
+.Y19-text3{background-color: #FFE4E1;text-align: center;}

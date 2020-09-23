@@ -1,5 +1,5 @@
 body{
-  background-color: #C0C0C0;
+  background-color: #FDF5E6;
 }
 
 .P-text1{
@@ -11,6 +11,15 @@ body{
 .pain-photo{
   width: 100%;
   height: 100%;
-  
-
 }
+
+.P-text2{
+  background-color: #EEEEEE;
+}
+
+
+
+.p-no1{background-color: #CC9966;}
+.p-no1-photo1{width:40%;height:40%;margin: 0 4.3%;}
+.p-no1-photo2{width:39.5%;height:39.5%;margin: 0 4.3%;}
+.p-no1-tex{background-color: #EEEEEE;}

@@ -1,5 +1,5 @@
 body{
-  background-color:#C0C0C0;
+  background-color:#FDF5E6;
 }
 .title-photo{
   background-size: cover;
@@ -7,15 +7,21 @@ body{
   height:100%;
 }
 
+.day{text-align: right;margin: 0%;}
+
 .mountain{
   font-size:50px;
   background-color:#CC6600;
   text-align: center;
 
+
 }
 .text1,.text2,.text3,.text4{
-  background-color: #FFFFFF;
+  background-color: #EEEEEE;
 }
+
+
+
 
 .bottom{
   width: 100%;
@@ -54,3 +60,23 @@ body{
   color: #000000;
   list-style: none;
 }
+
+.text5{
+  text-align: center;
+
+}
+
+.text6{text-align: center;}
+
+
+.a-no-1{background-color: #999966;}
+.a-no1-photo{width:40%;height:40%;margin: 0 2.3%;float: left;}
+.a-no1-tex{margin: 0 2.3%;background-color: #EEEEEE;}
+
+.p-no1{background-color: #CC9966;}
+.p-no1-photo1{width:40%;height:40%;margin: 0 4.3%;}
+.p-no1-photo2{width:39.5%;height:39.5%;margin: 0 4.3%;}
+.p-no1-tex{background-color: #EEEEEE;}
+
+.m-no1{background-color: #99CCFF;}
+.m_no1_tex{background-color: #EEEEEE;}

@@ -1,5 +1,5 @@
 body{
-  background-color: #C0C0C0;
+  background-color: #FDF5E6;
 }
 
 .M-text1{
@@ -13,3 +13,12 @@ body{
   height: 100%;
   : center;
 }
+
+.M-text2{
+  background-color: #EEEEEE;
+}
+
+
+
+.m-no1{background-color: #99CCFF;}
+.m_no1_tex{background-color: #EEEEEE;}
